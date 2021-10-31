@@ -1,0 +1,20 @@
+{
+    "th18_01": "A Rainblob Spanning Gensokyo",
+    "th18_02": "A Shower of Strange Singing Blobs",
+    "th18_03": "Blob of Great Fortune",
+    "th18_04": "The Blob Hidden in Deep Green",
+    "th18_05": "Blob Technology",
+    "th18_06": "The Perpetual Song of Komakusa Blobs",
+    "th18_07": "Smoking Blob",
+    "th18_08": "The Obsolescent Industrial Blob",
+    "th18_09": "Blob from the Age of the Gods",
+    "th18_10": "The Long-Awaited Blob Opera",
+    "th18_11": "Starry Mountain of Blob",
+    "th18_12": "Lunar Rainblob",
+    "th18_13": "Where Is That Bustling Opera Now ~ Immemorial Blobs",
+    "th18_14": "The Great Fantastic Underground Blob Opera",
+    "th18_15": "The Blob Who Slays Dragon Kings",
+    "th18_16": "The Sunday after the Storm",
+    "th18_17": "A Rainbow-Colored World",
+    "th18_18": "Player's Score"
+}
