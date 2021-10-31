@@ -1,4 +1,5 @@
 Replaces most of the music in supported games by [Thomas Light](https://www.youtube.com/channel/UCstM7ToXNepL-TZxiuRZ21w)'s Blob Opera renditions.
+
 Also includes a few cheeky graphical changes for the title screen and the song names.
 
 ![Music room screen](https://i.imgur.com/ufLIHxV.png)
