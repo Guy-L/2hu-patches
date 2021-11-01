@@ -14,7 +14,7 @@
     "th18_13": "Where Is That Bustling Opera Now ~ Immemorial Blobs",
     "th18_14": "The Great Fantastic Underground Blob Opera",
     "th18_15": "The Blob Who Slays Dragon Kings",
-    "th18_16": "The Sunday after the Storm",
-    "th18_17": "A Rainbow-Colored World",
-    "th18_18": "Player's Score"
+    "th18_16": "The Sunday after the Opera",
+    "th18_17": "A Rainblow-Colored Blob",
+    "th18_18": "Blob's Score"
 }
