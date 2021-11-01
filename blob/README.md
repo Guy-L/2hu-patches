@@ -2,7 +2,7 @@ Replaces most of the music in supported games by [Thomas Light](https://www.yout
 
 #### Install Guide:
 
-Blob Patch is a thcrap patch. If you've never used thcrap, first [download](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) the latest version of the patcher and run `thcrap.exe`. On the patch selection screen, click `Advanced mode...` and scroll down to my patch list (Guy's patches), select the first one. Point thcrap to the location of your games folder, create the shortcuts you want, and wait for the download to finish. You can now run the patch.
+Blob Patch is a thcrap patch. If you've never used thcrap, first [download](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) the latest version of the patcher and run `thcrap.exe`. On the patch selection screen, click `Advanced mode...` and scroll down to my patch list (Guy's patches), select the first one and continue. Point thcrap to the location of your games folder, create the shortcuts you want, and wait for the download to finish. You can now run the patch.
 
 ![Music room screen](https://i.imgur.com/ufLIHxV.png)
 
