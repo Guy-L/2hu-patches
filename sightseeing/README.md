@@ -1,4 +1,4 @@
-Replaces background/foreground elements to easily key them out and make transparent screenshots/videos of bullet patterns. The player sprite is also hidden, so an invincibility patch is recommended (e.g. thprac). 
+Removes stage logic and player sprites to take pictures of the backgrounds. Boss-triggered background changes (i.e. Chimata's growing moon) and spell card backgrounds will not be seen.
 
 ![Patch in action (extra stage)](https://i.imgur.com/cc7TTq1.png)
 
